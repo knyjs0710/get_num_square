@@ -1,7 +1,7 @@
 #action.yaml
 name: 'Custom Github Action'
 description:'A GitHub Action that takes inputs and returns outputs'
-inputs:
+inputs:  
   num:
     required: ture
     default: "1"
